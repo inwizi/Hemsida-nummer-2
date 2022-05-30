@@ -1,0 +1,48 @@
+.Main-Site {
+  background-image: url("img/paintball.jpg");
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 100px;
+  margin-left: 400px;
+  color: white;
+}
+
+nav {
+  margin-top: 50px;
+  font-size: 30px;
+  margin-left: 500px;
+  color: black;
+  letter-spacing: 1px;
+  -webkit-text-stroke: 0, 1px;
+}
+
+.paintball1 {
+  background-image: url("img/bakrund.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.utrustning {
+  margin-left: 400px;
+  margin-top: 299px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.flexi{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.5;
+
+} 
